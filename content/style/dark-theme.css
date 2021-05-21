@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    transition: 1s;
+}
+.main-container , .left-btn , .right-btn{
+    background-color: rgb(59, 82, 82);
+}
+.main-container-reg{
+    background-color: rgb(68, 68, 68);
+    transition: 1s;
+}
+.main-container div:first-child p{
+    color: white;
+}
